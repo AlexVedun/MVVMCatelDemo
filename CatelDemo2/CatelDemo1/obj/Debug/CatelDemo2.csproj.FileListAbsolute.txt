@@ -1,3 +1,0 @@
-C:\Users\Юрий\Documents\Visual Studio 2012\Projects\CS\WPF\My\CatelDemos\output\Debug\CatelDemo1.exe.config
-C:\Users\Юрий\Documents\Visual Studio 2012\Projects\CS\WPF\My\CatelDemos\CatelDemo1\obj\Debug\CatelDemo1.exe
-C:\Users\Юрий\Documents\Visual Studio 2012\Projects\CS\WPF\My\CatelDemos\CatelDemo1\obj\Debug\CatelDemo1.pdb
