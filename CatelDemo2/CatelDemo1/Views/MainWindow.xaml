@@ -11,19 +11,29 @@
 
      <Grid x:Name="LayoutRoot">
 
-        <ContentControl Content="{Binding currentSlide, Converter={StaticResource viewModelToViewConverter}}"
-                        Margin="0, 0, 0, 400">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="auto"></RowDefinition>
+            <RowDefinition></RowDefinition>
+        </Grid.RowDefinitions>
+
+        <Button Content="Click me!"
+                Command="{Binding NextSlideCommand}"
+                Width="100"
+                Height="50"
+                Grid.Row="0"
+                Margin="10">
+
+        </Button>
+        <ContentControl
+            Content="{Binding currentSlide, Converter={StaticResource viewModelToViewConverter}}"
+            Grid.Row="1"
+            VerticalAlignment="Stretch">
             
         </ContentControl>
 
         <!--<Label Content="{Binding Title}" />-->
         <!--<Label Content="Here goes your real content" />-->
-        <Button Content="Click me!"
-                Command="{Binding NextSlideCommand}"
-                Width="100"
-                Height="50">
-            
-        </Button>
+        
     </Grid>
     
 </catel:Window>

@@ -40,7 +40,6 @@ C:\Users\Юрий\Documents\Visual Studio 2012\Projects\CS\WPF\My\CatelDemo2\Cat
 C:\Users\student\source\repos\C#\WPF\Examples\16\CatelDemo\CatelDemo2\output\Debug\CatelDemo1.exe.config
 C:\Users\student\source\repos\C#\WPF\Examples\16\CatelDemo\CatelDemo2\output\Debug\CatelDemo1.exe
 C:\Users\student\source\repos\C#\WPF\Examples\16\CatelDemo\CatelDemo2\output\Debug\CatelDemo1.pdb
-C:\Users\student\source\repos\C#\WPF\Examples\16\CatelDemo\CatelDemo2\CatelDemo1\obj\Debug\CatelDemoSecond.csprojResolveAssemblyReference.cache
 C:\Users\student\source\repos\C#\WPF\Examples\16\CatelDemo\CatelDemo2\CatelDemo1\obj\Debug\Views\DialogView.baml
 C:\Users\student\source\repos\C#\WPF\Examples\16\CatelDemo\CatelDemo2\CatelDemo1\obj\Debug\Views\MainWindow.baml
 C:\Users\student\source\repos\C#\WPF\Examples\16\CatelDemo\CatelDemo2\CatelDemo1\obj\Debug\Views\Slide1View.baml
@@ -61,3 +60,4 @@ C:\Users\student\source\repos\C#\WPF\Examples\16\CatelDemo\CatelDemo2\CatelDemo1
 C:\Users\student\source\repos\C#\WPF\Examples\16\CatelDemo\CatelDemo2\CatelDemo1\obj\Debug\CatelDemo1.pdb
 C:\Users\student\source\repos\C#\WPF\Examples\16\CatelDemo\CatelDemo2\CatelDemo1\obj\Debug\Views\Slide3View.baml
 C:\Users\student\source\repos\C#\WPF\Examples\16\CatelDemo\CatelDemo2\CatelDemo1\obj\Debug\Views\Slide3View.g.cs
+C:\Users\student\source\repos\C#\WPF\Examples\16\CatelDemo\CatelDemo2\CatelDemo1\obj\Debug\CatelDemoSecond.csprojAssemblyReference.cache
